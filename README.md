@@ -10,7 +10,7 @@ A simple and elegant expense tracking web app built with **Spring Boot** and **T
 
 - **Backend:** Spring Boot
 - **Frontend:** Thymeleaf
-- **Database:** H2 / MySQL
+- **Database:** H2 
 - **Deployment:** Railway
 
 ---
