@@ -2,8 +2,6 @@
 
 A simple and elegant expense tracking web app built with **Spring Boot** and **Thymeleaf**.
 
-> 🚀 [Live Demo](https://expensetracker-production-7b50.up.railway.app)
-
 ---
 
 ## 🛠 Tech Stack
